@@ -1,5 +1,5 @@
 # CS471-421204100
-* **Web Technologies**
+ **Web Technologies**
 
 * **Name:** Jana Alnutaify
 * **Student ID:** 421204100
